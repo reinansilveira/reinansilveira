@@ -44,5 +44,3 @@
 
 ---
 
-### 🐍 **Snake Game**
-![Snake animation](https://github.com/reinansilveira/reinansilveira/blob/output/github-contribution-grid-snake.svg)
