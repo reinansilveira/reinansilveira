@@ -8,21 +8,26 @@
 ---
 
 ### 🛠️ **Habilidades Técnicas**
-
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat" alt="C#">
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
   <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" alt="Angular">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat">
 </p>
 
 ---
 
 ### 📫 **Como me encontrar**
-- [LinkedIn](https://www.linkedin.com/in/reinan-santana-24ab05301/)  
-- 📧 [reinanlanz@gmail.com](mailto:reinanlanz@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/reinan-santana-24ab05301/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:reinanlanz@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -34,5 +39,8 @@
 ---
 
 ### 🧠 **Sobre Mim**
-- 🌍 Aracaju, Sergipe, Brasil  
-- 📚 Sempre buscando novos desafios para crescer profissionalmente  
+🌍 Aracaju, Sergipe, Brasil  
+📚 Sempre buscando novos desafios para crescer profissionalmente  
+
+---
+
