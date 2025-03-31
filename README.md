@@ -21,10 +21,10 @@
 
 ### 📫 **Como me encontrar**
 <p align="left">
-  <a href="https://www.linkedin.com/in/reinan-santana-24ab05301/">
+  <a href="https://www.linkedin.com/in/reinan-santana-24ab05301/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:reinanlanz@gmail.com">
+  <a href="mailto:reinanlanz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -44,3 +44,5 @@
 
 ---
 
+### 🐍 **Snake Game**
+![Snake animation](https://github.com/reinansilveira/reinansilveira/blob/output/github-contribution-grid-snake.svg)
